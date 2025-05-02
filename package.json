@@ -1,0 +1,25 @@
+{
+  "name": "pwallet",
+  "version": "1.0.0",
+  "description": "Pwallet - Personal finance app with minimalist, modern design",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "finance",
+    "personal-finance",
+    "dashboard",
+    "brazil",
+    "dark-theme"
+  ],
+  "author": "Pwallet Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.3.1"
+  },
+  "dependencies": {
+    "chart.js": "^4.3.0"
+  }
+}
